@@ -95,8 +95,3 @@ function newGame(){
         playGame = true;
     })
 }
-//Allow to restart game with restart button
-//Change DIV to a form so it can accept the enter key
-
-//NOTES:
-//NaN != NaN
